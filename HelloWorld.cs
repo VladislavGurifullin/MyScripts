@@ -7,6 +7,7 @@ public class HelloWorld : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        // Я изменил
         print("hello world");
     }
 
