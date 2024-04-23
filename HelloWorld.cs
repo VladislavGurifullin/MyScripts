@@ -5,6 +5,7 @@ using UnityEngine;
 public class HelloWorld : MonoBehaviour
 {
     // Start is called before the first frame update
+    // Изменил
     void Start()
     {
         print("hello world");
